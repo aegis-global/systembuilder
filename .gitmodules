@@ -1,0 +1,18 @@
+[submodule "sb__backend-go"]
+	path = sb__backend-go
+	url = https://github.com/aegis-global/sb__backend-go
+[submodule "sb__backend-python"]
+	path = sb__backend-python
+	url = https://github.com/aegis-global/sb__backend-python
+[submodule "sb__backend-java"]
+	path = sb__backend-java
+	url = https://github.com/aegis-global/sb__backend-java
+[submodule "sb__frontend"]
+	path = sb__frontend
+	url = https://github.com/aegis-global/sb__frontend
+[submodule "sb__databases"]
+	path = sb__databases
+	url = https://github.com/aegis-global/sb__databases
+[submodule "sb__scripts"]
+	path = sb__scripts
+	url = https://github.com/aegis-global/sb__scripts
